@@ -4,7 +4,7 @@
 
 ## Ingeniero en Telecomunicaciones y Desarrollador 👨‍💻
 
-- 👔 Actualmente trabajo en HyG Consultores como desarrollador
+- 👔 Actualmente trabajo como desarrollador
 - 💻 Apasionado a la tecnología en general y el software
 - 🎮 Aficionado a los videojuegos
  
